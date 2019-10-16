@@ -1,0 +1,2 @@
+# Mlungu-spec
+Always right
